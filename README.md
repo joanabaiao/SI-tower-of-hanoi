@@ -9,8 +9,6 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 This project is a simple implementation of this game that has been created by me in the "Computer Systems" class.
 In a Java environment, run the script Projeto1.py. The script can easily be adapted to play the game with a different number of disks N, for example.
 
-<p align="center">
+<p align="center" margin="20px">
   <img width="600" src="example.png">
 </p>
-
-<img src="example.png" align="left" height="48" width="48">

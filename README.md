@@ -10,6 +10,4 @@ This project is a simple implementation of this game that has been created by me
 In a Java environment, run the script Projeto1.java. The script can easily be adapted to play the game with a different number of disks N, for example.
 
 ## Example (in portuguese)
-<p align="center" margin="20px">
-  <img width="600" src="example.png">
-</p>
+<img width="600" src="example.png" align="left" margin="20px">
